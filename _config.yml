@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Pet-проекты]
-description: [Python pandas matplotlib SQL Excel PowerBI Airflow Docker]
+description: [Python pandas matplotlib SQL Excel PowerBI Docker]
